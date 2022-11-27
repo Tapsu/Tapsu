@@ -1,6 +1,6 @@
 ### Hi there, I'm Tapsu 👋
 
-> Tapsu#6529
+> Discord: Tapsu#6529
 
 ###
 <img align="left" alt="Tapsu | Views" src="https://komarev.com/ghpvc/?username=tapsu&color=000000&style=for-the-badge&logo=appveyor" />
