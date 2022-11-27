@@ -1,9 +1,9 @@
 ### Hi there, I'm Tapsu 👋
 
-### Connect with me:
+###
 
-[<img align="left" alt="Tapsu | YouTube" src="https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />][youtube]
-[<img align="left" alt="Tapsu | Discord" src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white" />][discord]
+[<img align="left" alt="Tapsu | YouTube" src="https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />]
+[<img align="left" alt="Tapsu | Discord" src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white" />]
 [<img align="left" alt="Tapsu | Views" src="https://komarev.com/ghpvc/?username=tapsu&color=ff69b4&style=for-the-badge&logo=appveyor" />]
 
 <br />
@@ -12,8 +12,7 @@
 
 
 
-<a><img src="https://komarev.com/ghpvc/?username=tapsu&color=ff69b4&style=plastic"></a>
 
 ![](https://hit.yhype.me/github/profile?user_id=44003337)
-[youtube]: https://www.youtube.com/channel/UCqHOiMcxkMRNmDnl3QUbn_A/ 
-[discord]: https://discord.com/users/150607765159542784
+![youtube](https://www.youtube.com/channel/UCqHOiMcxkMRNmDnl3QUbn_A/) 
+![discord](https://discord.com/users/150607765159542784)
