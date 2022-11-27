@@ -14,5 +14,5 @@
 
 
 ![](https://hit.yhype.me/github/profile?user_id=44003337)
-[youtube](https://www.youtube.com/channel/UCqHOiMcxkMRNmDnl3QUbn_A/) 
-[discord](https://discord.com/users/150607765159542784)
+![](https://www.youtube.com/channel/UCqHOiMcxkMRNmDnl3QUbn_A/) 
+![](https://discord.com/users/150607765159542784)
